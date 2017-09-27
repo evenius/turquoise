@@ -1,0 +1,23 @@
+{
+  "name": "turquoise",
+  "version": "0.0.0",
+  "description": "A webGL 3D Game engine, built to be small, I guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/evenius/turquoise.git"
+  },
+  "keywords": [
+    "Game",
+    "engine"
+  ],
+  "author": "Jonathan Gill <mrjonathangill@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evenius/turquoise/issues"
+  },
+  "homepage": "https://github.com/evenius/turquoise#readme"
+}
